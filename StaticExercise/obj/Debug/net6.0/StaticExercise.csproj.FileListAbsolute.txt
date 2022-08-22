@@ -1,0 +1,15 @@
+/Users/luisangelmeneses/Desktop/repos/StaticExercise/StaticExercise/bin/Debug/net6.0/StaticExercise
+/Users/luisangelmeneses/Desktop/repos/StaticExercise/StaticExercise/bin/Debug/net6.0/StaticExercise.deps.json
+/Users/luisangelmeneses/Desktop/repos/StaticExercise/StaticExercise/bin/Debug/net6.0/StaticExercise.runtimeconfig.json
+/Users/luisangelmeneses/Desktop/repos/StaticExercise/StaticExercise/bin/Debug/net6.0/StaticExercise.dll
+/Users/luisangelmeneses/Desktop/repos/StaticExercise/StaticExercise/bin/Debug/net6.0/StaticExercise.pdb
+/Users/luisangelmeneses/Desktop/repos/StaticExercise/StaticExercise/obj/Debug/net6.0/StaticExercise.csproj.AssemblyReference.cache
+/Users/luisangelmeneses/Desktop/repos/StaticExercise/StaticExercise/obj/Debug/net6.0/StaticExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisangelmeneses/Desktop/repos/StaticExercise/StaticExercise/obj/Debug/net6.0/StaticExercise.AssemblyInfoInputs.cache
+/Users/luisangelmeneses/Desktop/repos/StaticExercise/StaticExercise/obj/Debug/net6.0/StaticExercise.AssemblyInfo.cs
+/Users/luisangelmeneses/Desktop/repos/StaticExercise/StaticExercise/obj/Debug/net6.0/StaticExercise.csproj.CoreCompileInputs.cache
+/Users/luisangelmeneses/Desktop/repos/StaticExercise/StaticExercise/obj/Debug/net6.0/StaticExercise.dll
+/Users/luisangelmeneses/Desktop/repos/StaticExercise/StaticExercise/obj/Debug/net6.0/refint/StaticExercise.dll
+/Users/luisangelmeneses/Desktop/repos/StaticExercise/StaticExercise/obj/Debug/net6.0/StaticExercise.pdb
+/Users/luisangelmeneses/Desktop/repos/StaticExercise/StaticExercise/obj/Debug/net6.0/StaticExercise.genruntimeconfig.cache
+/Users/luisangelmeneses/Desktop/repos/StaticExercise/StaticExercise/obj/Debug/net6.0/ref/StaticExercise.dll
